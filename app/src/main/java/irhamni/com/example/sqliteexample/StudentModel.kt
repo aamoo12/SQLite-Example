@@ -1,4 +1,4 @@
-package famelaoktavianda.com.example.sqliteexample
+package irhamni.com.example.sqliteexample
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
