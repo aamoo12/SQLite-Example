@@ -1,4 +1,4 @@
-package famelaoktavianda.com.example.sqliteexample
+package irhamni.com.example.sqliteexample
 
 import android.os.Bundle
 import android.widget.Toast
