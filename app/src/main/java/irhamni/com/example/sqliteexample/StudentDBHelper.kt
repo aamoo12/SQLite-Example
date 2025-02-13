@@ -1,4 +1,4 @@
-package famelaoktavianda.com.example.sqliteexample
+package ithamni.com.example.sqliteexample
 
 import android.content.ContentValues
 import android.content.Context
