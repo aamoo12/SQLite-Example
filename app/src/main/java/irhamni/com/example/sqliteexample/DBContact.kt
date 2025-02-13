@@ -1,4 +1,4 @@
-package famelaoktavianda.com.example.sqliteexample
+package irhsmni.com.example.sqliteexample
 
 import android.provider.BaseColumns
 
