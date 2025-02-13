@@ -1,9 +1,9 @@
-package famelaoktavianda.com.example.sqliteexample
+package irhamni.com.example.sqliteexample
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import famelaoktavianda.com.example.sqliteexample.databinding.ItemListStudentBinding
+import irhamni.com.example.sqliteexample.databinding.ItemListStudentBinding
 class StudentAdapter (private val studentList:
                       ArrayList<StudentModel>):
     RecyclerView.Adapter<StudentAdapter.ListViewHolder>() {
