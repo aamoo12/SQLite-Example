@@ -1,4 +1,4 @@
-packageirhamni.com.example.sqliteexample
+package irhamni.com.example.sqliteexample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
